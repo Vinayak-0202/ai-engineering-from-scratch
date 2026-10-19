@@ -27,6 +27,9 @@ Cargo.lock
 
 *.deps
 *.ji
+.pt
+.pth
+.safetensors
 
 .env
 .env.local
